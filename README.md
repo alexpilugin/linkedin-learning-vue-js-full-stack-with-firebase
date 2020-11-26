@@ -1,5 +1,10 @@
 # vue-spas
 
+This application is my own solution based on the linkedin/learning course. The original source code is located on GitHub repo: [https://github.com/planetoftheweb/vue-spas/tree/01_03b](https://github.com/planetoftheweb/vue-spas/tree/01_03b).
+This application created by Vue CLI and uses Firebase Authentication and Firebase Firestore and Font Awesome. The author of this application uses VuexRouter as an EventBus for the entire application and he doesn't use a Vuex's Store at all. Also this application doesn't use Route Guards by default.
+
+Please use your own Firebase Credentials which you need to place inside the db.js file.
+
 ## Online Demo
 [https://alexpi-vue-spas-training.web.app/](https://alexpi-vue-spas-training.web.app/)
 
