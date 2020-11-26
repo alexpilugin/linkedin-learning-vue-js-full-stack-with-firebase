@@ -40,3 +40,12 @@ firebase deploy --only hosting
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Images
+![app-navigation-user-flow.png](https://github.com/alexpilugin/linkedin-learning-vue-js-full-stack-with-firebase/blob/main/git-images/app-navigation-user-flow.png "app-navigation-user-flow.png")    
+
+![home-page.png](https://github.com/alexpilugin/linkedin-learning-vue-js-full-stack-with-firebase/blob/main/git-images/home-page.png "home-page.png")    
+
+![meetings-page.png](https://github.com/alexpilugin/linkedin-learning-vue-js-full-stack-with-firebase/blob/main/git-images/meetings-page.png "meetings-page.png")    
+
+![attendees-page.png](https://github.com/alexpilugin/linkedin-learning-vue-js-full-stack-with-firebase/blob/main/git-images/attendees-page.png "attendees-page.png")    
